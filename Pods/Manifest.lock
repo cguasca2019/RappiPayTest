@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.4.4)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - MotionToastView (0.1.10)
+  - SwiftyJSON (5.0.1)
+  - youtube-ios-player-helper-swift (1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FMDB
+  - MotionToastView
+  - SwiftyJSON
+  - youtube-ios-player-helper-swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FMDB
+    - MotionToastView
+    - SwiftyJSON
+    - youtube-ios-player-helper-swift
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  MotionToastView: e6e03c88141c2da252cce3f5c4512e76281b4754
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  youtube-ios-player-helper-swift: 51a3c5325317c8271d0c7985c1bbe5a252ffb2fd
+
+PODFILE CHECKSUM: 699eb012bc71415f7bdb8bce33abfd59b21c680a
+
+COCOAPODS: 1.11.2
